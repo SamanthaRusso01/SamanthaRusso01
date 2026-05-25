@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ciao, sono Samantha! 👋
 
-<!--
-**SamanthaRusso01/SamanthaRusso01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unisco una **Laurea Triennale in Psicologia** all'**Analisi dei Dati** per comprendere a fondo il comportamento delle persone e trasformare i numeri in decisioni strategiche. 
 
-Here are some ideas to get you started:
+### 🛠️ Le mie Competenze Tecniche
+* **Linguaggi & Query:** Python, SQL
+* **Strumenti di Analisi:** Microsoft Excel, Python
+* **Metodologie:** Data Storytelling, Analisi Comportamentale e Psicometrica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Portfolio in Costruzione
+Sto attualmente strutturando e caricando i miei progetti pratici. Torna a trovarmi nei prossimi giorni per vedere le mie analisi!
+
+### 📬 Parliamo!
+* **LinkedIn:** [Incolla qui il link di LinkedIn]
+* **Email:** samantha.russo.19@gmail.com
