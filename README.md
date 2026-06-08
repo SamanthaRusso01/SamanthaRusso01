@@ -7,7 +7,7 @@ Unisco una **Laurea Triennale in Psicologia** all'**Analisi dei Dati** per compr
 * **Strumenti di Analisi:** Microsoft Excel, Python
 * **Metodologie:** Data Storytelling, Analisi Esplorativa, Analisi Descrittiva, Analisi Inferenziale e qualcosa di Analisi Predittiva.
 
-### 🚧 Portfolio in Costruzione
+### Portfolio in Costruzione
 Sto attualmente strutturando e caricando i miei progetti pratici. Torna a trovarmi nei prossimi giorni per vedere le mie analisi!
 
 ### I miei conatti :
